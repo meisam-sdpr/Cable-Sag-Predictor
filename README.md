@@ -1,4 +1,4 @@
-# AI inside Grasshopper! 🚀📐
+# Cable Sag Prediction using AI in Grasshopper
 
 In this project, I built a simple model to predict **cable sag**. 💡
 
