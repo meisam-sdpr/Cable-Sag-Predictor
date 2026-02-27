@@ -2,7 +2,7 @@
 
 In this project, I built a simple model to predict **cable sag**. 💡
 
-![Grasshopper Script](MG_0691.jpeg)
+![Grasshopper Script](IMG_0691.jpeg)
 
 ### The workflow was pretty straightforward:
 First, I generated about 25 training samples using the **Kangaroo** plugin.
