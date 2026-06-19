@@ -15,7 +15,7 @@ Here are the variables:
 🔹 **Output:** Cable Sag  
 
 Then, I used the **Galapagos** evolutionary algorithm to **fit the model** and
-minimize the prediction error against the dataset.🎯 
+minimize the prediction error against the dataset. 🎯 
 
 Finally, I tested it with entirely new data. Even with just 25 training samples, the results for this simple model were surprisingly accurate and impressive!
 
