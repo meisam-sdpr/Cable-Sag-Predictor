@@ -1,4 +1,4 @@
-# Data-Driven Cable Sag Prediction in Grasshopper (with Galapagos Optimization)
+# Cable Sag Predictor
 
 In this project, I built a simple data-driven model that predicts **cable sag**
 from a few design parameters. In effect, it's a lightweight **surrogate model**
