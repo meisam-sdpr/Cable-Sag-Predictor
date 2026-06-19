@@ -1,4 +1,4 @@
-# Cable Sag Prediction using AI in Grasshopper
+# Data-Driven Cable Sag Prediction in Grasshopper (with Galapagos Optimization)
 
 In this project, I built a simple model to predict **cable sag**. 💡
 
